@@ -1,0 +1,17 @@
+{
+	"email": "thilaktlkchodagiri@gmai.com",
+	"name": "chodagiri thilak",
+	"rollNo": "23481a4221",
+	"accessCode": "eJdCuC",
+	"clientID": "ec1f33b1-1b7c-4a9f-945a-e69997560b3c",
+	"clientSecret": "tpWbFFVhjnKeJNnH"
+}
+
+
+
+
+{
+	"token_type": "Bearer",
+	"access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJ0aGlsYWt0bGtjaG9kYWdpcmlAZ21haS5jb20iLCJleHAiOjE3NzgzMDUzNDIsImlhdCI6MTc3ODMwNDQ0MiwiaXNzIjoiQWZmb3JkIE1lZGljYWwgVGVjaG5vbG9naWVzIFByaXZhdGUgTGltaXRlZCIsImp0aSI6ImM2MmY0N2E1LTMzOWEtNGJjMi1iYmQxLTY2MGQ2OTZmODU4OCIsImxvY2FsZSI6ImVuLUlOIiwibmFtZSI6ImNob2RhZ2lyaSB0aGlsYWsiLCJzdWIiOiJlYzFmMzNiMS0xYjdjLTRhOWYtOTQ1YS1lNjk5OTc1NjBiM2MifSwiZW1haWwiOiJ0aGlsYWt0bGtjaG9kYWdpcmlAZ21haS5jb20iLCJuYW1lIjoiY2hvZGFnaXJpIHRoaWxhayIsInJvbGxObyI6IjIzNDgxYTQyMjEiLCJhY2Nlc3NDb2RlIjoiZUpkQ3VDIiwiY2xpZW50SUQiOiJlYzFmMzNiMS0xYjdjLTRhOWYtOTQ1YS1lNjk5OTc1NjBiM2MiLCJjbGllbnRTZWNyZXQiOiJ0cFdiRkZWaGpuS2VKTm5IIn0.gFC9oqlr5d2HotUluqWXeTIMNXilfmbjnI8Cew8MjSY",
+	"expires_in": 1778305342
+}
